@@ -1,4 +1,4 @@
-RoR Developer at [Código Facilito](https://codigofacilito.com)
+RoR Developer at [CódigoFacilito](https://codigofacilito.com)
 
 Passionate about Linux & FOSS, learning new things and helping others
 
